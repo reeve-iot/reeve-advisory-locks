@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Reeve.EntityFrameworkCore.AdvisoryLocks/Reeve.EntityFrameworkCore.AdvisoryLocks.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Reeve.EntityFrameworkCore.AdvisoryLocks.Tests/Reeve.EntityFrameworkCore.AdvisoryLocks.Tests.csproj" />
+    <Project Path="tests/Reeve.EntityFrameworkCore.AdvisoryLocks.IntegrationTests/Reeve.EntityFrameworkCore.AdvisoryLocks.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
